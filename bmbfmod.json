@@ -6,7 +6,7 @@
 		"ChatUI",
 	],
 	"category": "Other",
-	"gameVersion": "1.12.2",
+	"gameVersion": "1.14.0",
 	"version": "0.1.6",
 	"links": {
 		"project-home": "https://github.com/darknight1050/ChatUI"
@@ -25,19 +25,19 @@
         {
             "type": "HookModLibrary",
             "installAction": {
-              "installLibraryFile": "libcodegen_0_3_4.so"
+              "installLibraryFile": "libcodegen_0_7.0.so"
             }
         },
         {
             "type": "HookModLibrary",
             "installAction": {
-              "installLibraryFile": "libbs-utils.so"
+              "installLibraryFile": "libbs-utils.so.so"
             }
         },
         {
             "type": "HookModLibrary",
             "installAction": {
-              "installLibraryFile": "libbeatsaber-hook_0_7_7.so"
+              "installLibraryFile": "libbeatsaber-hook_1_2_3.so.so"
             }
         },
 		{
